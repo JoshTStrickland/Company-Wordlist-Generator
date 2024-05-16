@@ -25,4 +25,4 @@ To use the Password Ban List Generator, follow these steps:
 3. **Run the script** using Python:
 
    ```bash
-   python company_passwords.py
+   python3 company_passwords.py
